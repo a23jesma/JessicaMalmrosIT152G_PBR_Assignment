@@ -50814,6 +50814,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1607876687}
     m_Modifications:
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_ReceiveGI
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_ImportantGI
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_PreserveUVs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1399319874204097976, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
       propertyPath: m_StaticEditorFlags
