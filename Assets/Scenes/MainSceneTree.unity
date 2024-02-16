@@ -16236,6 +16236,21 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 1378147314416343891, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_ImportantGI
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1378147314416343891, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_PreserveUVs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1378147314416343891, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2800907776458526505, guid: 52b4775c07dc89e49abbc8252a5b9999,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -50932,6 +50947,26 @@ PrefabInstance:
     - target: {fileID: 6435557341531604460, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569329162064753527, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569329162064753527, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569329162064753527, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_MinimumChartSize
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6569329162064753527, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_IgnoreNormalsForChartDetection
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
