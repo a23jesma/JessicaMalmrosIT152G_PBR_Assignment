@@ -50966,12 +50966,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
       propertyPath: m_LightProbeUsage
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
       propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_IgnoreNormalsForChartDetection
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1399319874204097976, guid: f482e259b53700b4890301a9e27e6a14,
