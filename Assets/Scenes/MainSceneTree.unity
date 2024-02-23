@@ -4946,6 +4946,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1607876687}
     m_Modifications:
+    - target: {fileID: 3359730855562708456, guid: cd4af3b7e0e5c16408508fd9053855c3,
+        type: 3}
+      propertyPath: m_ImportantGI
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359730855562708456, guid: cd4af3b7e0e5c16408508fd9053855c3,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3755804828116452141, guid: cd4af3b7e0e5c16408508fd9053855c3,
         type: 3}
       propertyPath: m_Name
@@ -50956,6 +50966,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
       propertyPath: m_StaticShadowCaster
       value: 0
       objectReference: {fileID: 0}
@@ -55065,7 +55080,7 @@ PrefabInstance:
     - target: {fileID: 6544703181548194571, guid: a7a1d43e8ef20c345bf45f926fa33100,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.71
+      value: 0.69
       objectReference: {fileID: 0}
     - target: {fileID: 6544703181548194571, guid: a7a1d43e8ef20c345bf45f926fa33100,
         type: 3}
