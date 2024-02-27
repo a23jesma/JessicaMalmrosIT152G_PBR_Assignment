@@ -15,7 +15,7 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 1
-  m_FogColor: {r: 0.59522957, g: 0.8962264, b: 0.7768011, a: 1}
+  m_FogColor: {r: 0.26633143, g: 0.5943396, b: 0.5595069, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.007
   m_LinearFogStart: 24.1
@@ -25683,7 +25683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  lookSpeed: 50
+  lookSpeed: 100
   rigidbody: {fileID: 823968780}
   camera: {fileID: 330585546}
 --- !u!54 &823968780
@@ -39303,6 +39303,36 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_ReceiveGI
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_ImportantGI
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_MinimumChartSize
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_IgnoreNormalsForChartDetection
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8859589521562281012, guid: 1669ea5236eb3cd488f0d046288986c7,
         type: 3}
       propertyPath: m_Name
@@ -48585,6 +48615,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1744216113458537633, guid: b97a7dd065d92f14b98aeec214a4e8e4,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3586516981720374800, guid: b97a7dd065d92f14b98aeec214a4e8e4,
         type: 3}
